@@ -1,6 +1,4 @@
-package Chap_1;
-import java.util.Scanner;
-
+package Homework;
 import java.util.Scanner;
 
 public class Homework1 {
