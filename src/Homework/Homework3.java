@@ -1,4 +1,4 @@
-package Practics;
+package Homework;
 import java.util.Scanner;
 
 public class Homework3 {
@@ -9,7 +9,6 @@ public class Homework3 {
         int NumCount = sc.nextInt();
 
         int[] NumArr = new int[NumCount]; //배열만들고
-
 
         System.out.println("수를 입력하세요: ");
 
