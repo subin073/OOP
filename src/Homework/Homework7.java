@@ -1,5 +1,6 @@
 package Homework;
 
+public class Homework7{
 // 추상 클래스 Printer 설계
 public abstract class Printer {
     protected String model;
@@ -56,7 +57,6 @@ public class LaserPrinter extends Printer {
 }
 
 // 테스트 코드
-public class Homework7 {
     public static void main(String[] args) {
         InkjetPrinter inkjet = new InkjetPrinter("Brother DCP-T720DW", 7500);
         LaserPrinter laser = new LaserPrinter("Canon MFC643Cdw", 1500);
