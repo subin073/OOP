@@ -1,5 +1,5 @@
 package Homework;
-
+/*
 public class Homework7{
 // 추상 클래스 Printer 설계
 public abstract class Printer {
@@ -64,3 +64,4 @@ public class LaserPrinter extends Printer {
         while (laser.print()) ;
     }
 }
+*/
